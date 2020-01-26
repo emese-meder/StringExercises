@@ -1,11 +1,11 @@
 # StringExercises
 Java string manipulation exercises
 
-## The palindrome checker 
+## PalindromeChecker 
 
 contains the isPalindrome() method which returns true if the input word is a plaindrome (reads the same backwards)
 
-## Letters of the alphabet
+## LettersOfAlphabet
 
 the LettersOfAlphabet class contains the containsAllLetters() method that chech if the text entered as the parameter contains all the letters of the alphabet. 
 
